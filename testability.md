@@ -1,75 +1,92 @@
-# Testability
-
+# WHAT IS TESTABILITY
 
 ---
 
-## WHAT IS TESTABILITY
-- Made of two words
-<!-- .element: class="fragment" -->
+# ABILITY
 
-- THE WORD "ABILITY"
-The fact that someone or something is able to do something
-<!-- .element: class="fragment" -->
+"The fact that someone or something is able to do something"
 
+_Oxford dictionary_
 
-- THE WORD "TEST"
-Testing is the process of evaluating a product by learning about it through 
+---
+
+# TEST
+
+"Testing is the process of evaluating a product by learning about it through 
 experiencing, exploring, and experimenting, which includes to some degree: 
-questioning, study, modeling, observation, inference, etc.
+questioning, study, modeling, observation, inference, etc."
 
-SOURCE: https://www.satisfice.com/blog/archives/856
+_Michael Bolton, https://rapid-software-testing.com_
 
-Definition by Michael Bolton
-Founder of Rapid Software Testing (https://rapid-software-testing.com)
-Evolved form "Exploratory Testing"
-Started testing by leading test teams at Apple and Borland from 1987
+--
 
-? RST MATRIX (lower left hand corner = testability)
-<!-- .element: class="fragment" -->
+# Rapid Software Testing
+
+- James Bach and Michael Bolton
+- Evolved form "Exploratory Testing" and "Context Driven Testing"
+- Started around 1987
+
+---
+
+<img src="img/RST-Agile-Testing-Ecosystem.png" width="100%" height="100%" />
+
+---
+
+<img src="img/RST-Agile-Testing-Ecosystem_focus.png" width="100%" height="100%" />
+<!-- .slide: data-transition="none" -->
+
+---
 
 
-
-## TESTABILITY IS EVERYWHERE - IN CARS
+# TESTABILITY IN CARS
 - Tire tread level indicators
-- 1,6 mm => legal
-	But remember if it's wet then you need at least 3 mm for safety
-TODO: FOTO
+- 1,6 mm is the legal requirement
+- But ~3 mm is needed when it's raining
+- Requires a minimum of skills
 
+---
 
-## WHAT IS TESTABILITY NOT
+<img src="img/tread-wear-indicator-strip.jpg" width="100%" height="100%" />
+
+---
+
+# WHAT IT's _NOT_
 - Dieselgate
-	Some "genius" made an algorithm that identified if the car was under test or not
-		If under test: do not pollute
-		if not under test: pollute like hell (order of a magnitude more)
+```
+if (car_is_under_test):
+	behave_nice() # They're watching!
+else:
+	misbehave() # And hope we'll not get caught…
+```
 
-- General practice today...
-	BMW, Fiat, Chrysler, Jeep, Opel (General Motors), Nissan, Renault, Mercedes-Benz
+--
 
-- ...and in the past
-	1973 Chrysler, Ford, General Motors, Toyota and Volkswagen
-	1996 General Motors
-	1996 Fiat
-	1998 Honda
+- Not only VW
+	- BMW, Chrysler, Fiat, Jeep, Nissan, Opel, Renault, Mercedes-Benz…
+- Not only now
+	- 1973 Chrysler, Ford, General Motors, Toyota and Volkswagen
+	- 1996 General Motors, Fiat
+	- 1998 Honda
 
-SOURCE: https://en.wikipedia.org/wiki/Diesel_emissions_scandal
-	
+---
 
-
-## DEMO ABR
+# DEMO ABR
 - Hvad er ABR (samme film, men forskellige bitrater, forskellig lyd og video)
 - Need to know what is actually offered to the client (manifest proxy)
 - TvE004 ABR
 
+---
 
-## DEMO LIPP SYNC
+# DEMO LIPP SYNC
 - TvE00x
 
+---
 
-## DEMO DOLBY SURROUND
+# DEMO DOLBY SURROUND
 -TvE00x
 
 
-## DEMO LIMITATIONS
+# DEMO LIMITATIONS
 - Our platform "difficult"
 - Requires a subscription for "cmore"
 - Not possible to have "free" "available for all" content (yet)
@@ -77,5 +94,8 @@ SOURCE: https://en.wikipedia.org/wiki/Diesel_emissions_scandal
 
 ---
 
-## Spørgsmål
+# Spørgsmål
 <img src="img/questions.jpg" width="80%" height="80%" />
+
+---
+<!-- .element: class="fragment" -->
