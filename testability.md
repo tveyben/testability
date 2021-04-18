@@ -52,50 +52,56 @@ _Michael Bolton, https://rapid-software-testing.com_
 
 # WHAT IT's _NOT_
 - Dieselgate
+
 ```
 if (car_is_under_test):
-	behave_nice() # They're watching!
+	behave_nice() # The authorities are watching us!
 else:
-	misbehave() # And hope we'll not get caught…
+	misbehave()   # And hope we'll not get caught…
 ```
 
 --
 
-- Not only VW
+- Everybody cheats
 	- BMW, Chrysler, Fiat, Jeep, Nissan, Opel, Renault, Mercedes-Benz…
-- Not only now
+- All the time
 	- 1973 Chrysler, Ford, General Motors, Toyota and Volkswagen
 	- 1996 General Motors, Fiat
 	- 1998 Honda
 
 ---
 
-# DEMO ABR
-- Hvad er ABR (samme film, men forskellige bitrater, forskellig lyd og video)
-- Need to know what is actually offered to the client (manifest proxy)
-- TvE004 ABR
+# ABR DEMO
+- ABR = Adaptive Bit Rate
+	- A "manifest" defines multiple variants of the same content
+		- EG.: 1, 2, 4 & 8 Mbps
+	- Different clients might gets different manifests (proxy-server)
+
+- TvE004
 
 ---
 
-# DEMO LIPP SYNC
-- TvE00x
+# LIPP SYNC DEMO
+- TvE003
 
 ---
 
-# DEMO DOLBY SURROUND
+# DOLBY SURROUND DEMO 
 -TvE00x
 
+---
 
 # DEMO LIMITATIONS
 - Our platform "difficult"
-- Requires a subscription for "cmore"
-- Not possible to have "free" "available for all" content (yet)
+- Requires a subscription for "C-More"
+- Not possible to have "available for all" content (yet)
 
 
 ---
 
-# Spørgsmål
-<img src="img/questions.jpg" width="80%" height="80%" />
+# Questions
+
+<img src="img/questions.jpg" width="70%" height="70%" />
 
 ---
 <!-- .element: class="fragment" -->
