@@ -2,7 +2,7 @@
 
 ---
 
-# ABILITY
+## ABILITY
 
 > The fact that someone or something is able to do something
 
@@ -10,7 +10,7 @@ _Oxford Advanced Learner's Dictionary_
 
 ---
 
-# TEST
+## TEST
 
 > Testing is the process of evaluating a product by learning about it through 
 experiencing, exploring, and experimenting, which includes to some degree: 
@@ -22,7 +22,7 @@ _https://rapid-software-testing.com_
 
 --
 
-# Rapid Software Testing
+## Rapid Software Testing
 
 - James Bach and Michael Bolton
 - Evolved form
@@ -42,10 +42,10 @@ _https://rapid-software-testing.com_
 ---
 
 
-# TESTABILITY - CARS
+## TESTABILITY - CARS
 - Tire tread level indicators
 - 1,6 mm is the legal requirement
-- But ~3 mm is needed when it's raining
+	- But ~3 mm is needed when it's raining
 - Requires a minimum set of skills to use
 	- Even a small child can do it
 
@@ -55,7 +55,7 @@ _https://rapid-software-testing.com_
 
 ---
 
-# TESTABILITY IS _NOT_
+## TESTABILITY IS _NOT_
 - Dieselgate
 
 ```
@@ -67,7 +67,7 @@ else:
 
 --
 
-# NOT NEW
+## NOT NEW
 - Everybody cheats
 	- BMW, Chrysler, Fiat, Jeep, Nissan, Opel, Renault, Mercedes-Benz…
 - All the time
@@ -77,28 +77,31 @@ else:
 
 ---
 
-# ABR DEMO
-- ABR = Adaptive Bit Rate
-	- A "manifest" defines multiple technical variations
-		- EG.: 1, 2, 4 & 8 Mbps
-	- Different clients gets different manifests (proxy-server)
-		- Humax: 8 Mbps, iOS 4 Mbps
+## ADAPTIVE BITRATE DEMO
+- A "manifest" defines multiple technical variations
+	- EG.: 1, 2, 4 & 8 Mbps
+- Different clients gets different manifests (proxy-server)
+	- Humax: 8 Mbps, iOS 4 Mbps
 
 - TvE004
 
 ---
 
-# LIPP SYNC DEMO
+## LIPP SYNC DEMO
+- Using an external amplifier?
+- Is audio and video in sync?
 - TvE003
 
 ---
 
-# DOLBY SURROUND DEMO 
+## DOLBY SURROUND DEMO
+- Using a surround amplifier?
+- Is right and left swapped?
 -TvE002
 
 ---
 
-# DEMO CHALLENGES
+## DEMO CHALLENGES
 - Our platform is _difficult_
 - _[TvE00x]_ Requires a subscription for "C-More"
 - Not possible to have "available for all" content (yet)
@@ -106,7 +109,18 @@ else:
 
 ---
 
-# Questions
+## TAKE AWAY
+- If testing made is easy
+	- it ***will*** be performed (much more)
+- If testing is made difficult
+	- it will ***not*** be performed (as much as needed)
+- Must know the actual requirements
+	- Client max bitrate
+
+---
+
+
+## Questions
 
 <img src="img/questions.jpg" width="70%" height="70%" />
 
