@@ -1,0 +1,16 @@
+curl -L https://github.com/hakimel/reveal.js/archive/master.zip -OJ
+unzip reveal.js-master.zip
+rm reveal.js-master.zip
+
+# UNZIP: Archives read from standard input are not yet supported, except with funzip (and then only the first member of the archive can be extracted).
+
+In windows shell
+cd reveal.js-master
+npm install
+rename C:\python.exe to C:\python2.exe temporarily to avoid errors
+	https://stackoverflow.com/questions/45801457/node-js-python-not-found-exception-due-to-node-sass-and-node-gyp
+make sure to use nodejs-lts
+	https://stackoverflow.com/questions/64612707/node-sass-does-not-yet-support-your-current-environment-windows-64-bit-with-uns
+
+
+

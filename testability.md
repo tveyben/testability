@@ -1,0 +1,81 @@
+# Testability
+
+
+---
+
+## WHAT IS TESTABILITY
+- Made of two words
+<!-- .element: class="fragment" -->
+
+- THE WORD "ABILITY"
+The fact that someone or something is able to do something
+<!-- .element: class="fragment" -->
+
+
+- THE WORD "TEST"
+Testing is the process of evaluating a product by learning about it through 
+experiencing, exploring, and experimenting, which includes to some degree: 
+questioning, study, modeling, observation, inference, etc.
+
+SOURCE: https://www.satisfice.com/blog/archives/856
+
+Definition by Michael Bolton
+Founder of Rapid Software Testing (https://rapid-software-testing.com)
+Evolved form "Exploratory Testing"
+Started testing by leading test teams at Apple and Borland from 1987
+
+? RST MATRIX (lower left hand corner = testability)
+<!-- .element: class="fragment" -->
+
+
+
+## TESTABILITY IS EVERYWHERE - IN CARS
+- Tire tread level indicators
+- 1,6 mm => legal
+	But remember if it's wet then you need at least 3 mm for safety
+TODO: FOTO
+
+
+## WHAT IS TESTABILITY NOT
+- Dieselgate
+	Some "genius" made an algorithm that identified if the car was under test or not
+		If under test: do not pollute
+		if not under test: pollute like hell (order of a magnitude more)
+
+- General practice today...
+	BMW, Fiat, Chrysler, Jeep, Opel (General Motors), Nissan, Renault, Mercedes-Benz
+
+- ...and in the past
+	1973 Chrysler, Ford, General Motors, Toyota and Volkswagen
+	1996 General Motors
+	1996 Fiat
+	1998 Honda
+
+SOURCE: https://en.wikipedia.org/wiki/Diesel_emissions_scandal
+	
+
+
+## DEMO ABR
+- Hvad er ABR (samme film, men forskellige bitrater, forskellig lyd og video)
+- Need to know what is actually offered to the client (manifest proxy)
+- TvE004 ABR
+
+
+## DEMO LIPP SYNC
+- TvE00x
+
+
+## DEMO DOLBY SURROUND
+-TvE00x
+
+
+## DEMO LIMITATIONS
+- Our platform "difficult"
+- Requires a subscription for "cmore"
+- Not possible to have "free" "available for all" content (yet)
+
+
+---
+
+## Spørgsmål
+<img src="img/questions.jpg" width="80%" height="80%" />
