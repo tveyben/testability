@@ -4,26 +4,30 @@
 
 # ABILITY
 
-"The fact that someone or something is able to do something"
+> The fact that someone or something is able to do something
 
-_Oxford dictionary_
+_Oxford Advanced Learner's Dictionary_
 
 ---
 
 # TEST
 
-"Testing is the process of evaluating a product by learning about it through 
+> Testing is the process of evaluating a product by learning about it through 
 experiencing, exploring, and experimenting, which includes to some degree: 
-questioning, study, modeling, observation, inference, etc."
+questioning, study, modeling, observation, inference, etc.
 
-_Michael Bolton, https://rapid-software-testing.com_
+_James Bach & Michael Bolton_
+
+_https://rapid-software-testing.com_
 
 --
 
 # Rapid Software Testing
 
 - James Bach and Michael Bolton
-- Evolved form "Exploratory Testing" and "Context Driven Testing"
+- Evolved form
+	- "Exploratory Testing"
+	- "Context Driven Testing"
 - Started around 1987
 
 ---
@@ -38,11 +42,12 @@ _Michael Bolton, https://rapid-software-testing.com_
 ---
 
 
-# TESTABILITY IN CARS
+# TESTABILITY - CARS
 - Tire tread level indicators
 - 1,6 mm is the legal requirement
 - But ~3 mm is needed when it's raining
-- Requires a minimum of skills
+- Requires a minimum set of skills to use
+	- Even a small child can do it
 
 ---
 
@@ -50,7 +55,7 @@ _Michael Bolton, https://rapid-software-testing.com_
 
 ---
 
-# WHAT IT's _NOT_
+# TESTABILITY IS _NOT_
 - Dieselgate
 
 ```
@@ -62,6 +67,7 @@ else:
 
 --
 
+# NOT NEW
 - Everybody cheats
 	- BMW, Chrysler, Fiat, Jeep, Nissan, Opel, Renault, Mercedes-Benz…
 - All the time
@@ -73,9 +79,10 @@ else:
 
 # ABR DEMO
 - ABR = Adaptive Bit Rate
-	- A "manifest" defines multiple variants of the same content
+	- A "manifest" defines multiple technical variations
 		- EG.: 1, 2, 4 & 8 Mbps
-	- Different clients might gets different manifests (proxy-server)
+	- Different clients gets different manifests (proxy-server)
+		- Humax: 8 Mbps, iOS 4 Mbps
 
 - TvE004
 
@@ -87,13 +94,13 @@ else:
 ---
 
 # DOLBY SURROUND DEMO 
--TvE00x
+-TvE002
 
 ---
 
-# DEMO LIMITATIONS
-- Our platform "difficult"
-- Requires a subscription for "C-More"
+# DEMO CHALLENGES
+- Our platform is _difficult_
+- _[TvE00x]_ Requires a subscription for "C-More"
 - Not possible to have "available for all" content (yet)
 
 
@@ -105,3 +112,4 @@ else:
 
 ---
 <!-- .element: class="fragment" -->
+<!-- .slide: data-transition="none" -->
