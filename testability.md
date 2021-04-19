@@ -130,6 +130,16 @@ _https://www.dr.dk/bonanza/serie/266/radiooejeblikke/59357/stereotest-a_
 - Must know the actual requirements
 	- Client max bitrate
 
+
+--
+
+# Picasso?
+***Good artists copy, great artists steal***
+
+> A good artist will see another artists style and then try and emulate that style as closely as they can
+
+> A great artist will select elements from another artists work and incorporate it into their own unique mix of influences
+
 ---
 
 
