@@ -105,6 +105,13 @@ else:
 - Is right and left swapped?
 -TvE002
 
+--
+
+# STEREOTESTEN 1970
+<img src="img/stereotesten.png" width="70%" height="70%" />
+
+_https://www.dr.dk/bonanza/serie/266/radiooejeblikke/59357/stereotest-a_
+
 ---
 
 ## DEMO CHALLENGES
@@ -129,4 +136,5 @@ else:
 ## Questions
 
 <img src="img/questions.jpg" width="60%" height="60%" />
-https://tveyben.github.io/testability
+
+_https://tveyben.github.io/testability_
