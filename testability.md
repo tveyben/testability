@@ -1,4 +1,10 @@
 # WHAT IS TESTABILITY
+- Thomas von Eyben, the BOX Squad
+
+--
+
+# FIT TO FRAME
+- Teams: Right click and select ***Fit to frame*** to see the entire video
 
 ---
 
@@ -122,8 +128,5 @@ else:
 
 ## Questions
 
-<img src="img/questions.jpg" width="70%" height="70%" />
-
----
-<!-- .element: class="fragment" -->
-<!-- .slide: data-transition="none" -->
+<img src="img/questions.jpg" width="60%" height="60%" />
+https://tveyben.github.io/testability

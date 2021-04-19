@@ -78,3 +78,5 @@ SOURCE: https://en.wikipedia.org/wiki/Diesel_emissions_scandal
 - Requires a subscription for "cmore"
 - Not possible to have "free" "available for all" content (yet)
 
+<!-- .element: class="fragment" -->
+<!-- .slide: data-transition="none" -->
